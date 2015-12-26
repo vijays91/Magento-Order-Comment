@@ -1,0 +1,13 @@
+<?xml version="1.0"?>
+<config>
+    <modules>
+        <Learn_OrderComment>
+            <active>true</active>
+            <codePool>local</codePool>
+            <depends>
+                <Mage_Checkout />
+                <Mage_Sales />
+            </depends>
+        </Learn_OrderComment>
+    </modules>
+</config>
